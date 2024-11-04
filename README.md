@@ -1,2 +1,2 @@
-# my-firstreposotory
+# my-firstrepository
 apna college
